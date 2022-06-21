@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Abner Silva</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Abner Silva</h1>
 <h3 align="center">A Learning about programing and Developer currently</h3>
 
 - 🔭 I’m currently working on nothing currently.
